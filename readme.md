@@ -14,4 +14,4 @@ And then run:
 
 You may need to:
 
-`$ chmod +x convert.sh`:W
+`$ chmod +x convert.sh`
