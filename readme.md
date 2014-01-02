@@ -5,14 +5,14 @@ Requires:
 To use, add YouTube urls to `clips.txt`. The urls can be either single
 videos or playlists.
 
+To install dependencies:
+
+`$ ./install.command`
+
 Then run:
 
-`$ python dl.py`
-
-And then run:
-
-`$ ./convert.sh`
+`$ ./do_it.command`
 
 You may need to:
 
-`$ chmod +x convert.sh`
+`$ chmod +x do_it.command`

@@ -3,7 +3,7 @@
 tput setaf 5
 echo "Installing Homebrew..."
 tput sgr0
-ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 
 
 tput setaf 5
