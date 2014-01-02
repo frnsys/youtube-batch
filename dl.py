@@ -1,7 +1,7 @@
 import subprocess, os
 path = os.path.dirname(os.path.realpath(__file__))
 join = os.path.join
-save_path = os.path.expanduser('~/Downloads/ripped')
+save_path = os.path.expanduser('~/Downloads/rips')
 
 if not os.path.exists(save_path):
     os.makedirs(save_path)
